@@ -3,8 +3,6 @@
 An interactive True/False quiz application built with Python Tkinter.
 Questions are fetched dynamically from the Open Trivia Database API for a fresh quiz experience every time.
 
-This App has a Beautiful colour palette
-
 ---
 
 ## 🎯 Features
