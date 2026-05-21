@@ -1,6 +1,6 @@
 # 🧠 Quizzler App (Python - Tkinter + API)
 
-An interactive True/False quiz application built with Python Tkinter.
+An interactive True/False quiz application built with Python Tkinter,
 Questions are fetched dynamically from the Open Trivia Database API for a fresh quiz experience every time.
 
 ---
